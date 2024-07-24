@@ -21,6 +21,6 @@ If you have any issues or questions, feel free to create a new Issue.
 
 ## License
 
-This extension is MIT Licensed.
+This extension is [**MIT Licensed**](https://github.com/paulbgtr/4get-easily/blob/master/LICENSE).
 
 Enjoy private searching with 4get.ca!
