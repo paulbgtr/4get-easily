@@ -25,4 +25,4 @@ This extension is [**MIT Licensed**](https://github.com/paulbgtr/4get-easily/blo
 
 ## And remember...
 
-We won't remember you, so you don't have to remember to forget!
+We won't remember you, so you don't have to remember to 4get!
