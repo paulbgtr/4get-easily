@@ -6,5 +6,15 @@
   "action": {},
   "background": {
     "service_worker": "bg.js"
+  },
+  "chrome_settings_overrides": {
+    "search_provider": {
+      "name": "4get",
+      "keyword": "4get",
+      "search_url": "https://4get.ca/web?s={searchTerms}",
+      "favicon_url": "https://4get.ca/favicon.ico",
+      "is_default": true,
+      "encoding": "UTF-8"
+    }
   }
 }
