@@ -3,9 +3,8 @@
   "name": "4get easily",
   "description": "4get.ca search provider.",
   "version": "1.0",
-  "action": {
-    "default_popup": "hello.html",
-    "default_icon": "hello_extensions.png"
+  "action": {},
+  "background": {
+    "service_worker": "bg.js"
   }
 }
-
